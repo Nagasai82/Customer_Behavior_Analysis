@@ -98,7 +98,8 @@ Project/
 │
 └── README.md
 ```
-
+## Dashboard
+<img width="593" height="333" alt="image" src="https://github.com/user-attachments/assets/e8170811-fa47-4e73-8d8b-eefa223bce3c" />
 ---
 
 ## Author
@@ -106,4 +107,3 @@ Project/
 NAGA SAI KRISHNA MAKALA
 
 Data Analytics Project demonstrating Python, SQL, PostgreSQL, Power BI, and business reporting skills.
-<img width="593" height="333" alt="image" src="https://github.com/user-attachments/assets/e8170811-fa47-4e73-8d8b-eefa223bce3c" />
