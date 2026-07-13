@@ -98,7 +98,7 @@ Project/
 │
 └── README.md
 ```
-## Dashboard
+## Power BI Dashboard
 <img width="593" height="333" alt="image" src="https://github.com/user-attachments/assets/e8170811-fa47-4e73-8d8b-eefa223bce3c" />
 ---
 
